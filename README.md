@@ -2,7 +2,7 @@
 
 Servo-mounted ultrasonic obstacle-detection system on a custom 2-layer PCB. Sweeps a 180 degree arc with an HC-SR04, flags close objects with a buzzer + LEDs.
 
-![Terrain Profiler PCB 3D render](images/hero.png)
+<img src="images/hero.png" width="500">
 
 ## Overview
 
@@ -25,9 +25,9 @@ Servo-mounted ultrasonic obstacle-detection system on a custom 2-layer PCB. Swee
 
 All footprints sourced from LCSC part numbers and pulled into KiCad via the easyeda2kicad CLI tool for exact manufacturer-match footprints.
 
-![Schematic](images/schematic.png)
+<img src="images/schematic.png" width="500">
 
-![PCB layout](images/pcb_layout.png)
+<img src="images/pcb_layout.png" width="500">
 
 ## Firmware
 
